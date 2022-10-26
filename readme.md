@@ -25,8 +25,8 @@ This is a clone of Shopify website, a tailwind project given by Ineuron.
 
 ### Links
 
-- Code File URL: [github.com](https://github.com/Jyotimoykathar/shopify_clone)
-- Live Site URL: [netlify.app](https://rode-website-clone-tailwindcss.netlify.app/)
+- Code File URL: [github.com](https://github.com/Jyotimoykathar/shopify--website_clone)
+- Live Site URL: [netlify.app](https://shopify-website-clone-tailwindcss.netlify.app/)
 
 ## My process
 
